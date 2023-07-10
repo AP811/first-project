@@ -1,0 +1,14 @@
+* {
+    background-color: #7d92ae;
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 55px;
+    color: #E5E7EB;
+}
