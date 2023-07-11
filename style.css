@@ -37,6 +37,8 @@ li {
 .topmenu {
     display: flex;
     justify-content: space-evenly;
+    font-weight: bolder;
+    align-items: flex-end;
 }
 
 .topbutton {
@@ -63,7 +65,6 @@ li {
     text-align: center;
 }
 
-
 .midmenu {
     display: flex;
     flex-direction: column;
@@ -80,7 +81,7 @@ li {
     border: 3px solid blue;
     border-radius: 30px;
     background-color: orange;
-    padding: 7px;
+    padding: 11px;
 }
 
 .midtitle, .midtext {
