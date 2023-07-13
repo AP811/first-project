@@ -99,6 +99,8 @@ li {
     display: flex;
     flex-direction: column;
     align-content: center;
+    padding-top: 40px;
+    padding-bottom: 60px;
 }
 
 .gallerytitle {
@@ -137,4 +139,38 @@ li {
     color: #FDF5CF;
     width: 250px;
     text-align: center;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: white;
+}
+
+.quotetext {
+    background-color: white;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+    color: purple;
+    padding-bottom: 10px;
+}
+
+.attribution {
+    font-size: 15px;
+    text-align: center;
+    color: #6a7173;
+    font-weight: bolder;
+    background-color: white;
+}
+
+.bottomline {
+    background-color:  #6a7173;
+    color: #FDF5CF;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-size: 18px;
 }
